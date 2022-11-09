@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+# extract info for a subdomain.
 # get domain and subdomain parameters
 if [ "$#" -eq 2 ];
 then 
